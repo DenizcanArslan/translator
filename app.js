@@ -1,3 +1,5 @@
+//Denizcan Arslan
+
 //elements
 const fromLang=document.querySelector("#from-lang");
 const toLang=document.querySelector("#to-lang");
